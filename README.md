@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raajan Lature</h1>
-<h3 align="center">A passionate fullstack developer.</h3>
+<h3 align="center">I am Rajan Lature, an aspiring software developer pursuing a B.Tech in Information Technology at Walchand College of Engineering, Sangli (2021–2025). With a strong foundation in Data Structures & Algorithms, Operating Systems, Database Management Systems, and Object-Oriented Programming.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
